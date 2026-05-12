@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>QbinAI 每日资讯</title>
+    <link>https://qbin-xiao.github.io/qbinai-blog/</link>
+    <description>探索 AI 世界的前沿动态与技术突破</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 12 May 2026 09:00:00 +0800</lastBuildDate>
+    <generator>QbinAI Blog Generator</generator>
+    
+    <item>
+      <title>AI 技术突破：新一代多模态模型发布</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-11-ai-breakthrough</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-11-ai-breakthrough</guid>
+      <pubDate>Mon, 11 May 2026 08:00:00 +0800</pubDate>
+      <description>今日，多家科技公司同时发布新一代多模态 AI 模型，在图像理解、视频生成和语音交互方面取得重大突破。</description>
+      <category>AI</category>
+      <category>多模态</category>
+      <category>技术突破</category>
+    </item>
+    
+    <item>
+      <title>开源大模型新纪元：性能超越 GPT-4</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-10-new-model-release</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-10-new-model-release</guid>
+      <pubDate>Sun, 10 May 2026 08:00:00 +0800</pubDate>
+      <description>一款全新的开源大语言模型在多项基准测试中超越 GPT-4，标志着开源 AI 进入新纪元。</description>
+      <category>开源</category>
+      <category>大语言模型</category>
+      <category>GPT-4</category>
+    </item>
+    
+    <item>
+      <title>AI 在各行业的应用案例精选</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-09-ai-applications</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-09-ai-applications</guid>
+      <pubDate>Sat, 09 May 2026 08:00:00 +0800</pubDate>
+      <description>从医疗诊断到金融风控，从智能制造到创意设计，AI 正在重塑各行各业的工作方式。</description>
+      <category>AI 应用</category>
+      <category>行业案例</category>
+      <category>数字化转型</category>
+    </item>
+    
+    <item>
+      <title>机器学习趋势解读：2026 年最值得关注的 5 个方向</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-08-machine-learning-trends</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-08-machine-learning-trends</guid>
+      <pubDate>Fri, 08 May 2026 08:00:00 +0800</pubDate>
+      <description>本文深度解析 2026 年机器学习领域的五大趋势，包括联邦学习、自监督学习和神经符号集成等。</description>
+      <category>机器学习</category>
+      <category>趋势</category>
+      <category>技术展望</category>
+    </item>
+    
+    <item>
+      <title>AI 伦理与治理：全球监管框架对比</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-07-ai-ethics</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-07-ai-ethics</guid>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0800</pubDate>
+      <description>随着 AI 技术的快速发展，各国纷纷出台监管框架。本文对比欧盟、美国、中国等地的 AI 治理策略。</description>
+      <category>AI 伦理</category>
+      <category>监管</category>
+      <category>政策</category>
+    </item>
+  </channel>
+</rss>
