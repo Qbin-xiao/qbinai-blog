@@ -5,8 +5,74 @@
     <link>https://qbin-xiao.github.io/qbinai-blog/</link>
     <description>探索 AI 世界的前沿动态与技术突破</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 12 May 2026 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 23:00:00 +0800</lastBuildDate>
     <generator>QbinAI Blog Generator</generator>
+    
+    <item>
+      <title>AI 智能体动态速览：自主入侵、企业安全与编码里程碑</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-ai-agents</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-ai-agents</guid>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0800</pubDate>
+      <description>Palisade Research证实AI Agent自主入侵成功率飙升至81%；OpenAI推出Daybreak企业安全防御；Anthropic Claude全面落地Microsoft 365；Linux内核迎来首个AI生成驱动。</description>
+      <category>AI Agent</category>
+      <category>OpenAI</category>
+      <category>Anthropic</category>
+    </item>
+    
+    <item>
+      <title>国内 AI 大模型周报：混元 Hy3 蝉联全球榜首，DeepSeek V4.1 六月发布</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-china-ai-models</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-china-ai-models</guid>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0800</pubDate>
+      <description>中国 AI 大模型周调用量再超美国，腾讯 Hy3 蝉联全球榜首；DeepSeek V4.1 六月发布计划曝光；智谱 GLM-5 港股 IPO 进入最后阶段；Q1 国内 AI 应用月活达 4.4 亿。</description>
+      <category>国内大模型</category>
+      <category>腾讯混元</category>
+      <category>DeepSeek</category>
+    </item>
+    
+    <item>
+      <title>国际 AI 动态：Googlebooks 发布、GPT-5.5 幻觉率降 52%、Mira Murati 交互模型</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-international-ai</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-international-ai</guid>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0800</pubDate>
+      <description>Google Android Show 2026 发布 Googlebooks 与 Gemini Intelligence；GPT-5.5 Instant 幻觉率下降 52.5%；Mira Murati 公布交互模型愿景；AMD CEO 称 Agentic AI 时代 CPU 需求或将反超 GPU。</description>
+      <category>Google</category>
+      <category>OpenAI</category>
+      <category>Anthropic</category>
+    </item>
+    
+    <item>
+      <title>AI 行业与技术前沿：RAG 演进、多模态全景、5 月融资 250 亿美元</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-ai-industry-tech</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-ai-industry-tech</guid>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0800</pubDate>
+      <description>5 月 AI 初创融资 37 笔超 250 亿美元；RAG 技术从向量检索演进至 Graph-RAG；多模态大模型 2026 全景盘点；AI Agent 安全监管呼声高涨。</description>
+      <category>AI 行业</category>
+      <category>RAG</category>
+      <category>多模态</category>
+    </item>
+    
+    <item>
+      <title>AI 应用与工具新品：omlx、SuperSplat、easy-vibe、OpenClaw 等</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-ai-tools</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-ai-tools</guid>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0800</pubDate>
+      <description>omlx 专为 Apple Silicon 优化的 LLM 推理服务器；PlayCanvas SuperSplat 浏览器端 3D 编辑器；Datawhale easy-vibe Vibe Coding 编程入门；OpenClaw 持续霸榜 GitHub AI 类目。</description>
+      <category>AI 工具</category>
+      <category>开源</category>
+      <category>GitHub</category>
+    </item>
+    
+    <item>
+      <title>广东 AI 活动预告：GAIE 2026 深圳展明日开幕、DEAI/ISPPAI 学术会议、AI 短剧出海峰会</title>
+      <link>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-guangdong-ai-events</link>
+      <guid>https://qbin-xiao.github.io/qbinai-blog/article.html?article=2026-05-12-guangdong-ai-events</guid>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0800</pubDate>
+      <description>GAIE 2026 第七届深圳国际人工智能展 5 月 14-16 日开幕，华为腾讯等近 200 家展商参展；粤港澳大湾区数字经济学术会议 5 月 15-17 日东莞举行；AI 短剧出海峰会 5 月 27 日广州。</description>
+      <category>广东</category>
+      <category>深圳</category>
+      <category>AI 活动</category>
+    </item>
     
     <item>
       <title>AI 技术突破：新一代多模态模型发布</title>
