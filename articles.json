@@ -3,49 +3,89 @@
     "filename": "2026-05-12-ai-agents",
     "title": "AI 智能体动态速览：自主入侵、企业安全与编码里程碑",
     "date": "2026-05-12",
-    "tags": ["AI Agent", "OpenAI", "Anthropic", "Microsoft"],
+    "tags": [
+      "AI Agent",
+      "OpenAI",
+      "Anthropic",
+      "Microsoft"
+    ],
     "excerpt": "Palisade Research证实AI Agent自主入侵成功率飙升至81%；OpenAI推出Daybreak企业安全防御；Anthropic Claude全面落地Microsoft 365；Linux内核迎来首个AI生成驱动。"
   },
   {
     "filename": "2026-05-12-china-ai-models",
     "title": "国内 AI 大模型周报：混元 Hy3 蝉联全球榜首，DeepSeek V4.1 六月发布",
     "date": "2026-05-12",
-    "tags": ["国内大模型", "腾讯混元", "DeepSeek", "Kimi", "通义千问"],
+    "tags": [
+      "国内大模型",
+      "腾讯混元",
+      "DeepSeek",
+      "Kimi",
+      "通义千问"
+    ],
     "excerpt": "中国 AI 大模型周调用量再超美国，腾讯 Hy3 蝉联全球榜首；DeepSeek V4.1 六月发布计划曝光；智谱 GLM-5 港股 IPO 进入最后阶段；Q1 国内 AI 应用月活达 4.4 亿。"
   },
   {
     "filename": "2026-05-12-international-ai",
     "title": "国际 AI 动态：Googlebooks 发布、GPT-5.5 幻觉率降 52%、Mira Murati 交互模型",
     "date": "2026-05-12",
-    "tags": ["Google", "OpenAI", "Anthropic", "AMD", "Microsoft"],
+    "tags": [
+      "Google",
+      "OpenAI",
+      "Anthropic",
+      "AMD",
+      "Microsoft"
+    ],
     "excerpt": "Google Android Show 2026 发布 Googlebooks 与 Gemini Intelligence；GPT-5.5 Instant 幻觉率下降 52.5%；Mira Murati 公布交互模型愿景；AMD CEO 称 Agentic AI 时代 CPU 需求或将反超 GPU。"
   },
   {
     "filename": "2026-05-12-ai-industry-tech",
     "title": "AI 行业与技术前沿：RAG 演进、多模态全景、5 月融资 250 亿美元",
     "date": "2026-05-12",
-    "tags": ["AI 行业", "RAG", "多模态", "融资", "网络安全"],
+    "tags": [
+      "AI 行业",
+      "RAG",
+      "多模态",
+      "融资",
+      "网络安全"
+    ],
     "excerpt": "5 月 AI 初创融资 37 笔超 250 亿美元；RAG 技术从向量检索演进至 Graph-RAG；多模态大模型 2026 全景盘点；AI Agent 安全监管呼声高涨。"
   },
   {
     "filename": "2026-05-12-ai-tools",
     "title": "AI 应用与工具新品：omlx、SuperSplat、easy-vibe、OpenClaw 等",
     "date": "2026-05-12",
-    "tags": ["AI 工具", "开源", "GitHub", "编程", "浏览器"],
+    "tags": [
+      "AI 工具",
+      "开源",
+      "GitHub",
+      "编程",
+      "浏览器"
+    ],
     "excerpt": "omlx 专为 Apple Silicon 优化的 LLM 推理服务器；PlayCanvas SuperSplat 浏览器端 3D 编辑器；Datawhale easy-vibe Vibe Coding 编程入门；OpenClaw 持续霸榜 GitHub AI 类目。"
   },
   {
     "filename": "2026-05-12-guangdong-ai-events",
     "title": "广东 AI 活动预告：GAIE 2026 深圳展明日开幕、DEAI/ISPPAI 学术会议、AI 短剧出海峰会",
     "date": "2026-05-12",
-    "tags": ["广东", "深圳", "广州", "AI 活动", "展会", "会议"],
+    "tags": [
+      "广东",
+      "深圳",
+      "广州",
+      "AI 活动",
+      "展会",
+      "会议"
+    ],
     "excerpt": "GAIE 2026 第七届深圳国际人工智能展 5 月 14-16 日开幕，华为腾讯等近 200 家展商参展；粤港澳大湾区数字经济学术会议 5 月 15-17 日东莞举行；AI 短剧出海峰会 5 月 27 日广州。"
   },
   {
     "filename": "2026-05-11-ai-breakthrough",
     "title": "AI 技术突破：新一代多模态模型发布",
     "date": "2026-05-11",
-    "tags": ["AI", "多模态", "技术突破"],
+    "tags": [
+      "AI",
+      "多模态",
+      "技术突破"
+    ],
     "excerpt": "今日，多家科技公司同时发布新一代多模态 AI 模型，在图像理解、视频生成和语音交互方面取得重大突破。",
     "cover": ""
   },
@@ -53,7 +93,11 @@
     "filename": "2026-05-10-new-model-release",
     "title": "开源大模型新纪元：性能超越 GPT-4",
     "date": "2026-05-10",
-    "tags": ["开源", "大语言模型", "GPT-4"],
+    "tags": [
+      "开源",
+      "大语言模型",
+      "GPT-4"
+    ],
     "excerpt": "一款全新的开源大语言模型在多项基准测试中超越 GPT-4，标志着开源 AI 进入新纪元。",
     "cover": ""
   },
@@ -61,7 +105,11 @@
     "filename": "2026-05-09-ai-applications",
     "title": "AI 在各行业的应用案例精选",
     "date": "2026-05-09",
-    "tags": ["AI 应用", "行业案例", "数字化转型"],
+    "tags": [
+      "AI 应用",
+      "行业案例",
+      "数字化转型"
+    ],
     "excerpt": "从医疗诊断到金融风控，从智能制造到创意设计，AI 正在重塑各行各业的工作方式。",
     "cover": ""
   },
@@ -69,7 +117,11 @@
     "filename": "2026-05-08-machine-learning-trends",
     "title": "机器学习趋势解读：2026 年最值得关注的 5 个方向",
     "date": "2026-05-08",
-    "tags": ["机器学习", "趋势", "技术展望"],
+    "tags": [
+      "机器学习",
+      "趋势",
+      "技术展望"
+    ],
     "excerpt": "本文深度解析 2026 年机器学习领域的五大趋势，包括联邦学习、自监督学习和神经符号集成等。",
     "cover": ""
   },
@@ -77,7 +129,11 @@
     "filename": "2026-05-07-ai-ethics",
     "title": "AI 伦理与治理：全球监管框架对比",
     "date": "2026-05-07",
-    "tags": ["AI 伦理", "监管", "政策"],
+    "tags": [
+      "AI 伦理",
+      "监管",
+      "政策"
+    ],
     "excerpt": "随着 AI 技术的快速发展，各国纷纷出台监管框架。本文对比欧盟、美国、中国等地的 AI 治理策略。",
     "cover": ""
   }
