@@ -1,0 +1,54 @@
+{
+  "daily_report_dir": "C:/Users/D/WorkBuddy/automation-claw-20260413104643",
+  "daily_report_prefix": "AI日报_",
+  "daily_report_suffix": ".md",
+  "blog_dir": "d:/workbuddy/qbinai-blog",
+  "articles_dir": "d:/workbuddy/qbinai-blog/articles",
+  "articles_json": "d:/workbuddy/qbinai-blog/articles.json",
+  "rss_xml": "d:/workbuddy/qbinai-blog/rss.xml",
+  "site_url": "https://qbin-xiao.github.io/qbinai-blog",
+  "site_title": "QbinAI 每日资讯",
+  "site_description": "探索 AI 世界的前沿动态与技术突破",
+  "site_author": "QbinAI",
+  "rss_max_items": 20,
+  "category_mappings": {
+    "🤖": {
+      "slug": "ai-agents",
+      "title_template": "AI 智能体动态速览：{keywords}",
+      "tags": ["AI Agent", "OpenAI", "Anthropic", "Microsoft"]
+    },
+    "🇨🇳": {
+      "slug": "china-ai-models",
+      "title_template": "国内 AI 大模型周报：{keywords}",
+      "tags": ["国内大模型", "腾讯混元", "DeepSeek", "Kimi", "通义千问"]
+    },
+    "🌍": {
+      "slug": "international-ai",
+      "title_template": "国际 AI 动态：{keywords}",
+      "tags": ["Google", "OpenAI", "Anthropic", "AMD", "Microsoft"]
+    },
+    "📊": {
+      "slug": "ai-industry-tech",
+      "title_template": "AI 行业与技术前沿：{keywords}",
+      "tags": ["AI 行业", "RAG", "多模态", "融资", "网络安全"],
+      "merge_with": "🔬"
+    },
+    "🔬": {
+      "slug": "ai-industry-tech",
+      "title_template": "AI 行业与技术前沿：{keywords}",
+      "tags": ["AI 行业", "RAG", "多模态", "融资", "网络安全"],
+      "merge_with": "📊"
+    },
+    "🛠️": {
+      "slug": "ai-tools",
+      "title_template": "AI 应用与工具新品：{keywords}",
+      "tags": ["AI 工具", "开源", "GitHub", "编程", "浏览器"]
+    },
+    "📍": {
+      "slug": "guangdong-ai-events",
+      "title_template": "广东 AI 活动预告：{keywords}",
+      "tags": ["广东", "深圳", "广州", "AI 活动", "展会", "会议"]
+    }
+  },
+  "skip_sections": ["💡", "📌"]
+}
